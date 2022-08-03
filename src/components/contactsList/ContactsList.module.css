@@ -1,0 +1,10 @@
+.contactsList {
+    font-size: 28px;
+}
+
+.contactsItem {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+

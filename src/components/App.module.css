@@ -1,0 +1,18 @@
+.container {
+    min-height: 100%;
+    background-color: rgb(216, 167, 182);
+    padding: 50px;
+    border-radius: 12px;
+}
+
+.mainTitle {
+    font-size: 96px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.secondaryTitle {
+    font-size: 62px;
+    margin-bottom: 30px;
+    text-align: center;
+}
